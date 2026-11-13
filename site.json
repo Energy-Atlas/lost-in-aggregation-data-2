@@ -1,0 +1,12 @@
+{
+  "name": "lost-in-aggregation-data-2",
+  "url": "https://energy-atlas.github.io/lost-in-aggregation-data-2/",
+  "release": "Energy-Atlas/lost-in-aggregation data-v1.0.0",
+  "types": [
+    "EC",
+    "WB",
+    "OC",
+    "SP",
+    "TerraceRow"
+  ]
+}
